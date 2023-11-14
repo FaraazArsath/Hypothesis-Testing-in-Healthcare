@@ -2,6 +2,7 @@
 
 ## 1. Proportions Z-Test:
 Null Hypothesis (H 0): The proportion of adverse effects is the same in the Drug and Placebo groups.
+
 Alternative Hypothesis (H 1): The proportion of adverse effects is different between the Drug and Placebo groups.
 
 Results:
@@ -10,6 +11,7 @@ Interpretation: With a p-value of 0.9639, we fail to reject the null hypothesis.
 
 ## 2. Chi-Squared Test:
 Null Hypothesis (H 0): The number of adverse effects is independent of the treatment and control groups.
+
 Alternative Hypothesis (H 1): There is a significant association between the number of adverse effects and the treatment groups.
 
 Results:
@@ -18,6 +20,7 @@ Interpretation: With a p-value of 0.6150, we fail to reject the null hypothesis.
 
 ## 3. Mann-Whitney U Test:
 Null Hypothesis (H 0): There is no significant difference in the distribution of ages between the Drug and Placebo groups.
+
 Alternative Hypothesis (H 1): There is a significant difference in the distribution of ages between the Drug and Placebo groups.
 
 Results:
